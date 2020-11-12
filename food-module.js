@@ -1,0 +1,1 @@
+module.exports.faveFoods = ['fried rice', 'BBQ chicken', 'sushi', 'cheesecake', 'nachos'];

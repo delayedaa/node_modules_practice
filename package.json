@@ -1,0 +1,19 @@
+{
+  "name": "node_modules_practice",
+  "version": "1.0.0",
+  "description": "GA deliverable",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/delayedaa/node_modules_practice.git"
+  },
+  "author": "Alan Avery",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/delayedaa/node_modules_practice/issues"
+  },
+  "homepage": "https://github.com/delayedaa/node_modules_practice#readme"
+}
