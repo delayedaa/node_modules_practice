@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/delayedaa/node_modules_practice/issues"
   },
-  "homepage": "https://github.com/delayedaa/node_modules_practice#readme"
+  "homepage": "https://github.com/delayedaa/node_modules_practice#readme",
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "gm": "^1.23.1",
+    "nodemailer": "^6.4.16"
+  }
 }
